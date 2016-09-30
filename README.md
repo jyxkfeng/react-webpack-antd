@@ -10,10 +10,10 @@ react+webpack+antd小dome:
  * 简单介绍react-router用法
  * 最后ajax已死fetch将永生
 
-dome安装方法
-clone本项目到本地，进入项目地址
-安装依赖包 $npm install
-运行webpack $npm run dev
+dome安装方法</br>
+clone本项目到本地，进入项目地址</br>
+安装依赖包 </br>$npm install</br>
+运行webpack </br>$npm run dev</br>
 打开浏览器即可。
 
 webpack开启了hot模式，修改代码的同时浏览器将自动刷新
